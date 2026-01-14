@@ -536,7 +536,7 @@ MIT License - feel free to use this project for any purpose.
 
 ## Author
 
-**CodeRefine Studio** was developed to help developers modernize their codebase easily and efficiently.
+**@chandugollavilli** was developed to help developers modernize their codebase easily and efficiently.
 
 ---
 
@@ -548,4 +548,4 @@ MIT License - feel free to use this project for any purpose.
 
 ---
 
-For more information, visit the deployed application or create an issue on the repository.
+For more information, please visit the deployed application, submit an issue on the repository, or contact me at chandugollavilli66@gmail.com.
